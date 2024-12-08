@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 10px;
+    margin: 200px;
+    display: inline;
+    text-align: center;
+}
+.h{
+    font-size: 25px;
+}
+.sec1,
+.sec2,
+.sec3,
+.sec4 {
+    background-color: black;
+    color: white;
+    border: solid black 1px;
+    padding: 10px;
+    display: inline-block;
+    width: 200px;
+    height: 510px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.check1 {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.check2 {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.check3 {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.check4 {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.head {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.hpc {
+    background-color: black;
+    color: gray;
+}
+
+.h {
+    padding-bottom: 10px;
+}
+
+.img1 {
+    width: 100%;
+}
+
+.img2 {
+    width: 100%;
+}
+
+.img3 {
+    width: 100%;
+}
+
+.img4 {
+    width: 100%;
+
+}
+.cname{
+    background-color: black;
+    color: white;
+}
+.contact {
+    background-color: black;
+    color: purple;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.table {
+    display: inline-block;
+    padding: 5px;
+}
+
+.body {
+    font-family: "Young Serif", serif;
+}
+
+.contact__access {
+    padding-top: 10px;
+}
+
+.submit:hover {
+    background-color:white;
+    color: black;
+}
+
+.submit {background-color:purple;
+    color:white;
+    padding: 2px;
+    border-color: none;
+    border-radius: 5px;
+}
+
+.name,
+.dob,
+.mail {
+    background-color: transparent;
+    margin: 5px;
+    border: none;
+    border-bottom: solid white 1px;
+}
